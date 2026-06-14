@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+thefuzz
+python-Levenshtein
+matplotlib
+seaborn
+jupyter
